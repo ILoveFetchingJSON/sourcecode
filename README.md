@@ -19,3 +19,5 @@ Install by running "sudo apt install python3-pygame" (Linux 2)
 Verify the installation by running "python3 -m pygame.examples.aliens"
 
 If you don't have the images set up yet, they're also located in this repository. I hope you like them! 
+
+Ok so i created some semantic error checker project called main.py i hope you like it!
