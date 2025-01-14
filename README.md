@@ -1,4 +1,11 @@
+**This README may be updated over time. There could be file updates, or extra important text that is based on a certain file. Please view the list of updates below to learn more.**
+
+Current updates on:
+A spaceshooter game
+A tokenizer, parser, and semantic error checker program (main.py)
+
 Dependencies needed: python, pygame
+
 
 You can install python by going to the python.org website and going to the downloads, and then install pygame with the command "pip install pygame" (Windows)
 
