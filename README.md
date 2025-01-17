@@ -3,6 +3,7 @@
 Current updates on:
 A spaceshooter game
 A tokenizer, parser, and semantic error checker program (main.py)
+A website (Please do not ship this as a public website link) (index.html). 
 
 Dependencies needed: python, pygame
 
@@ -21,3 +22,5 @@ Verify the installation by running "python3 -m pygame.examples.aliens"
 If you don't have the images set up yet, they're also located in this repository. I hope you like them! 
 
 Ok so i created some semantic error checker project called main.py i hope you like it!
+
+So i created a username and password thing that has a cool focus effect. If that sounds interesting, check it out!
