@@ -4,6 +4,8 @@ Current updates on:
 A spaceshooter game
 A tokenizer, parser, and semantic error checker program (main.py)
 A website (Please do not ship this as a public website link) (index.html). 
+A java program to make a square of your choice
+
 
 Dependencies needed: python, pygame
 
@@ -24,3 +26,6 @@ If you don't have the images set up yet, they're also located in this repository
 Ok so i created some semantic error checker project called main.py i hope you like it!
 
 So i created a username and password thing that has a cool focus effect. If that sounds interesting, check it out!
+
+I created this cool Java project you'll see just go check it out
+
