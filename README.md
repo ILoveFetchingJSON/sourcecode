@@ -1,4 +1,4 @@
-**This README may be updated over time. There could be file updates, or extra important text that is based on a certain file. Please view the list of updates below to learn more.**
+**This README may be updated over time. There could be file updates, or extra important text that is based on a certain file. Please view the list below.**
 
 Current updates on:
 A spaceshooter game
